@@ -68,7 +68,7 @@ namespace Oxide.Plugins
                             Width = 0.18f,
                             Height = 0.03f,
                             AnchorX = "Left",
-                            AnchorY = "Bottom",
+                            AnchorY = "left",
                             Margin = "0.005 0.162 0.005 0.005",
                             BackgroundColor = "0 0 0 0.4",
                         }
